@@ -5,4 +5,4 @@
 ## To run
 <code>javac TruthTable.java</code><br>
 <code>javac Main.java</code><br>
-<code>Java Main</code>
+<code>java Main</code>
